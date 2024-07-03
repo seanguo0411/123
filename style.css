@@ -1,0 +1,19 @@
+h1{
+    color:rgb(32, 140, 162);
+}
+.blue {
+    color: rgb(243, 116, 230);
+}
+#purple{
+    color:rgb(132, 47, 210)
+}
+body{
+    background-image: url("pikachu.jpg");
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Pn4I_wdAW4NaqvzGZhNDcrrYkYWQK9YdQQ&s);
+background-repeat: no-repeat;
+}
+table{
+    margin: 10px;
+    border: blue 5px dotted;
+    padding: 5px;
+}
